@@ -25,10 +25,12 @@
     "postversion": "git push",
     "deploy": "npm version patch && npm publish"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "@types/node": "16.11.x",
     "typescript": "4.5.x"
+  },
+  "devDependencies": {
+
   },
   "publishConfig": {
     "access": "public"
