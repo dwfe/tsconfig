@@ -1,7 +1,7 @@
 {
   "name": "@do-while-for-each/tsconfig",
   "description": "Shared TypeScript config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/dwfe/tsconfig",
   "bugs": "https://github.com/dwfe/tsconfig/issues",
   "repository": {
