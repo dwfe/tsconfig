@@ -21,14 +21,14 @@
     "LICENSE",
     "README.md"
   ],
-  "scripts": {
-    "deploy": "npm version patch && npm publish"
-  },
   "dependencies": {
     "@types/node": "16.x.x",
     "typescript": "4.x.x"
   },
   "devDependencies": {},
+  "scripts": {
+    "deploy": "npm version patch && npm publish"
+  },
   "publishConfig": {
     "access": "public"
   }
